@@ -6,6 +6,7 @@ system ("@cls||clear");
 time_t timeseconds = time(NULL);
 printf("los segundos desde 1970 son : %ld\n", timeseconds);
 printf("HOLA ESTO ES ESCRITO EN 20 DE ABRIL DE 2024\n");
+printf("ESTE TEXTO SERVIRA COMO UN COMMIT\n");
 //transformar seg a fecha
 struct tm *currentDate = localtime(&timeseconds);
 currentDate -> tm_year = currentDate-> tm_year + 1900;

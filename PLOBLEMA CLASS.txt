@@ -1,0 +1,4 @@
+ENTRAR A CARPETA GIT
+ CREAR UN TEXTO
+  EXTENCION .gitingnore
+   dentro del texto poner . class
